@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "cheeseynir",
+        "name": "Yellurple\n",
+        "version": "1.0.1",
+        "updater": "https:\/\/github.com\/Nirrzoom\/Cheeseys-repo"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -1788928,
+        "background": -14013395
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
